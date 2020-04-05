@@ -1,3 +1,7 @@
+# NOTICE: the guide has been moved [here](https://github.com/nannou-org/nannou/tree/master/guide).
+
+---
+
 # the nannou guide [![Build Status](https://travis-ci.org/nannou-org/guide.svg?branch=master)](https://travis-ci.org/nannou-org/guide)
 
 The one-stop-shop for everything someone might want to know about nannou!
